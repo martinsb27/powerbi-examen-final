@@ -16,7 +16,7 @@ Simula un caso de consultoría para la empresa **ABC**, donde se construyó un m
 
 ## 📷 Ejemplos de dashboards
 *(Agrega aquí capturas de pantalla de tus reportes para que los reclutadores los vean sin abrir los archivos)*
-![Dashboard General] (img/Captura de pantalla 2026-01-19 083953.png)
+![Dashboard General](img/Captura de pantalla 2026-01-19 083953.png)
 
 
 ## 📂 Cómo abrir el proyecto
