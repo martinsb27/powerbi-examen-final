@@ -16,8 +16,9 @@ Simula un caso de consultoría para la empresa **ABC**, donde se construyó un m
 
 ## 📷 Ejemplos de dashboards
 *(Agrega aquí capturas de pantalla de tus reportes para que los reclutadores los vean sin abrir los archivos)*
-![Dashboard General](img/Captura de pantalla 2026-01-19 083953.png)
-
+![Dashboard General](img/dashboard-general.png)
+![Tendencia de Ventas](img/dashboard-tendencia-ventas.png)
+![Ventas y Utilidad por Ciudad](img/dashboard-ciudad-utilidad.png)
 
 ## 📂 Cómo abrir el proyecto
 1. Descargar los archivos `.pbix`.  
